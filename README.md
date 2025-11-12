@@ -145,5 +145,6 @@ A dashboard exibe:
 📹 **Vídeo (até 10 min):**  
 Mostrando todas as funcionalidades das Fases 1 a 6 integradas via menu.  
 **Link YouTube (não listado):**  
-👉 [Adicionar aqui o link do vídeo após upload no YouTube]
+👉 [https://youtu.be/ZKANloa7LRI]
+
 
